@@ -13,7 +13,6 @@
   Licensed Under The  [MIT License](https://github.com/SandhyaReddy21/VIRTUAL_FILE_-SYSTEM/blob/main/LICENSE)
   
   [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/SandhyaReddy21/VIRTUAL_FILE_-SYSTEM/blob/main/LICENSE)
-    ![GitHub language count](https://img.shields.io/github/languages/count/PRASAD-DANGARE/Virtual_File_System?color=g&label=Languages)
   ![Platforms](https://img.shields.io/badge/Platforms-Linux_Windows-yellowgreen?style=flat-square)
  
   ![GitHub User's stars](https://img.shields.io/github/stars/SandhyaReddy21?color=yellow)
