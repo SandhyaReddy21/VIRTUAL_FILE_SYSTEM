@@ -87,4 +87,4 @@ System Programming Using C.
 
 #
 
-![](https://github.com/SandhyaReddy21/VIRTUAL_FILE_-SYSTEM/blob/main/VFS2.png)
+![](https://github.com/SandhyaReddy21/VIRTUAL_FILE_SYSTEM/blob/main/VFS2.png)
