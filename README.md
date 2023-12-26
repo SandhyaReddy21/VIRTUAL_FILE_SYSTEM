@@ -79,7 +79,7 @@ System Programming Using C.
     <h1>DEMO OUTPUT</h1>
 </div>
 
-![](https://i.imgur.com/waxVFS1.png)
+![](https://i.imgur.com/waxVImv.png)
 
 #
 
